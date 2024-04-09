@@ -1,0 +1,10 @@
+torch
+matplotlib
+numpy
+torchvision
+Pillow
+scikit-image
+tqdm
+torchsummary
+tensorboard
+kora
